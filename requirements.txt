@@ -1,4 +1,4 @@
-advanced_alchemy==0.17.3
+advanced_alchemy==0.18.0
 aiosqlite==0.20.0
 alembic==1.13.2
 anyio==4.4.0
